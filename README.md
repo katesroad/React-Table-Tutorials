@@ -9,3 +9,4 @@ Source code related to the YouTube tutorial series
 ## Tricks 
 
 - [Disable the state autoreset after table data update](https://react-table.tanstack.com/docs/faq#how-do-i-stop-my-table-state-from-automatically-resetting-when-my-data-changes)
+- [Fetch data based on table state change(fetch data remotely](https://react-table.tanstack.com/docs/faq#how-can-i-use-the-table-state-to-fetch-new-data)
